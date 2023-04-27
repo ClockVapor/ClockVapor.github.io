@@ -1,0 +1,9 @@
+title: Nick Lowery
+description: >-
+  Nick Lowery, Senior Software Engineer from Colorado, United States
+baseurl: ""
+url: "https://nicklowery.codes"
+github_username: ClockVapor
+theme: minima
+plugins:
+  - jekyll-feed
