@@ -12,4 +12,4 @@ header: |-
 <a href="https://kotlinlang.org/" target="_blank">Kotlin</a>, and I'm always pressing myself to learn new
 things!</p>
 <p>Here, you'll find my professional experience, links to my various side-projects, and links to my web presence
-elsewhere. Thanks for stoppig by!</p>
+elsewhere. Thanks for stopping by!</p>
