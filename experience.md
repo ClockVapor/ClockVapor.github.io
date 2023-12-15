@@ -26,7 +26,7 @@ header: |-
             <p>
                 I work on the data management team for
                 <a href="https://www.netsuite.com" target="_blank">NetSuite</a>, developing
-                internal REST services and automation to manage the cloud infrastructure and databases behind
+                internal services and automation to manage the cloud infrastructure and databases behind
                 NetSuite. I make sure customer data is always available!
             </p>
             <p class="technologies-used">
