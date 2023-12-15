@@ -18,7 +18,7 @@ header: |-
             <img class="work-icon" src="oracle.jpg" width="50px">
             <div class="work-title">
                 <h2>Oracle</h2>
-                <h3>Senior Software Engineer</h3>
+                <h3>Principal Software Engineer</h3>
                 <h4>August 2020 - Present</h4>
             </div>
         </div>

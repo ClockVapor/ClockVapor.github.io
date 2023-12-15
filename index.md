@@ -4,7 +4,7 @@ layout: page
 header: |-
     <img class="watermark portrait" src="me.jpg" width="200px">
     <h1>Nick Lowery</h1>
-    <h2>Senior Software Engineer</h2>
+    <h2>Principal Software Engineer</h2>
     <h3>Denver, Colorado, USA</h3>
 ---
 <p>Hi there! I'm Nick, a software engineer in Colorado. I'm enthusiastic about open-source software, privacy,
